@@ -1,0 +1,19 @@
+[
+  {
+    "username": "admin",
+    "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "data": [
+      {
+        "key": "joseph.txt",
+        "data": "SXMgdGhpcyBhIEpvSm8gcmVmZXJlbmNlPw=="
+      }
+    ],
+    "role": "admin"
+  },
+  {
+    "username": "jojo",
+    "password": "9d0867ad851f874d29ece51488b8d0801b126928c7a67c05f866007aa1651bcc",
+    "data": [],
+    "role": "basic"
+  }
+]
